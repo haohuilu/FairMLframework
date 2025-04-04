@@ -22,8 +22,7 @@ The analysis uses the [Heart Disease Prediction Dataset](https://www.kaggle.com/
 
 ## File Descriptions
 
-- `Untitled26.py`: Python script implementing the fairness-aware ML pipeline.
-- `fairness_ml_implementation.ipynb`: Jupyter Notebook version of the same pipeline.
+- `main.py`: Python script implementing the fairness-aware ML pipeline.
 
 ## How to Run
 
