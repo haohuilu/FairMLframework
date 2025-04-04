@@ -28,7 +28,7 @@ The analysis uses the [Heart Disease Prediction Dataset](https://www.kaggle.com/
 
 1. Clone the repository.
 2. Install the required packages (e.g., `pandas`, `scikit-learn`, `numpy`).
-3. Run the Python script or open the notebook to explore the fairness evaluation workflow.
+3. Run the Python script to explore the fairness evaluation workflow.
 
 ## Reference
 
