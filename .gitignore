@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+
+# Data files (not distributed with this repo)
+*.csv
+
+# Generated outputs
+*.xlsx
+results.xlsx
+emd_bias_table_after_specified_removal.*
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
